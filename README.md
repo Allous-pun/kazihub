@@ -1,6 +1,6 @@
 # KaziHub Mobile App
 
-A modern freelance marketplace mobile application built with SwiftUI for the Homeland Jobs Developer Assessment (Day 6 — Mobile Development).
+A modern freelance marketplace mobile application built using React Native with Expo. Native-inspired mobile UI patterns were used, influenced by Swift/iOS design principles.
 
 ## Features
 
